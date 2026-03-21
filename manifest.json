@@ -1,0 +1,22 @@
+{
+  "name": "gaby.estudio",
+  "short_name": "gaby",
+  "description": "Belleza y cuidado - Tu espacio de bienestar",
+  "start_url": "/gabyestudio/",
+  "scope": "/gabyestudio/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/gabyestudio/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/gabyestudio/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
